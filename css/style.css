@@ -1,0 +1,43 @@
+.bg-nav{
+    background-color:#354B72!important
+}
+a.bg-light:focus,a.bg-light:hover,button.bg-light:focus,button.bg-light:hover{
+    background-color:#354B72!important
+}
+
+body, html {
+    background-color: #D2E1FF;
+}
+
+.header-b {
+    background-color: #354B72;
+    text-align: center;
+    color: #ffffff;
+}
+
+.titulo-bold {
+    font-family: 'Red Rose', bold;
+    font-weight:bold;
+}
+
+.titulo-regular {
+    font-family: 'Red Rose', cursive;
+}
+
+.numero-regular {
+    font-family: 'Recursive', sans-serif;
+}
+
+.numero-bold {
+    font-family: 'Rowdies', cursive;
+}
+
+.sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.sombra {
+    -webkit-box-shadow: 10px 10px 5px -6px rgba(143,161,166,1);
+-moz-box-shadow: 10px 10px 5px -6px rgba(143,161,166,1);
+box-shadow: 10px 10px 5px -6px rgba(143,161,166,1);
+}
